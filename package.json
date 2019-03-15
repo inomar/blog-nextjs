@@ -1,0 +1,18 @@
+{
+  "name": "blog-nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/inomar/blog-nextjs.git",
+  "author": "MakotoInomata <inomar1486@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next sgtart"
+  }
+}
